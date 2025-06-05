@@ -1,5 +1,5 @@
 //largest number among three numbers without getting from user
-public class main5 {
+public class hi {
     public static void main(String args[])
     {
         int a = 53;
